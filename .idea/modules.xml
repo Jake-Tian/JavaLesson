@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaLesson.iml" filepath="$PROJECT_DIR$/JavaLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonClass/commonClass.iml" filepath="$PROJECT_DIR$/commonClass/commonClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/obj/obj.iml" filepath="$PROJECT_DIR$/obj/obj.iml" />
     </modules>
   </component>
